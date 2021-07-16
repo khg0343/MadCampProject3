@@ -1,0 +1,10 @@
+D:\MadCamp\MadCampProject3\Example1\RW-MonumentValley\RW-MonumentValley\MonumentValleyFinal\myApp\bin\Debug\netcoreapp2.0\myApp.deps.json
+D:\MadCamp\MadCampProject3\Example1\RW-MonumentValley\RW-MonumentValley\MonumentValleyFinal\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.json
+D:\MadCamp\MadCampProject3\Example1\RW-MonumentValley\RW-MonumentValley\MonumentValleyFinal\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.dev.json
+D:\MadCamp\MadCampProject3\Example1\RW-MonumentValley\RW-MonumentValley\MonumentValleyFinal\myApp\bin\Debug\netcoreapp2.0\myApp.dll
+D:\MadCamp\MadCampProject3\Example1\RW-MonumentValley\RW-MonumentValley\MonumentValleyFinal\myApp\bin\Debug\netcoreapp2.0\myApp.pdb
+D:\MadCamp\MadCampProject3\Example1\RW-MonumentValley\RW-MonumentValley\MonumentValleyFinal\myApp\obj\Debug\netcoreapp2.0\myApp.csproj.CoreCompileInputs.cache
+D:\MadCamp\MadCampProject3\Example1\RW-MonumentValley\RW-MonumentValley\MonumentValleyFinal\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfoInputs.cache
+D:\MadCamp\MadCampProject3\Example1\RW-MonumentValley\RW-MonumentValley\MonumentValleyFinal\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfo.cs
+D:\MadCamp\MadCampProject3\Example1\RW-MonumentValley\RW-MonumentValley\MonumentValleyFinal\myApp\obj\Debug\netcoreapp2.0\myApp.dll
+D:\MadCamp\MadCampProject3\Example1\RW-MonumentValley\RW-MonumentValley\MonumentValleyFinal\myApp\obj\Debug\netcoreapp2.0\myApp.pdb
